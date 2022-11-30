@@ -1,0 +1,10 @@
+ploomber
+kaggle
+mananeras
+unidecode
+scikit-learn
+pandas
+scipy
+numpy
+nltk
+pygraphviz
